@@ -1,5 +1,5 @@
 # Too Spooky For Boop
-#### Author: Rosemary Blair #### #
+#### Author: Rosemary Blair #
 
 ## About 
 

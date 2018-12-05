@@ -1,8 +1,8 @@
 # Too Spooky For Boop
+#### Author: Rosemary Blair #### #
 
 ## About 
 
-**Author**: Rosemary Blair
 
 A very simple Gameboy Advance game that I created in roughly three days.
 It's written in C and is playable using this GBA emulator: https://github.com/TricksterGuy/nin10kit.

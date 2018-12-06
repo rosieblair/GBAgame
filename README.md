@@ -8,10 +8,6 @@ A very simple Gameboy Advance game that I created in roughly three days.
 It's written in C and is playable using this GBA emulator: https://github.com/TricksterGuy/nin10kit.
 The purpose of this was to learn more about graphics and DMA (direct memory allocation) in C.
 
-![Screenshot](main_gamescreen.png)
-![Screenshot](play_game.png)
-![Screenshot](you_died.png)
-
 
 ## Gameplay
 
@@ -27,6 +23,12 @@ the other ghosts around him.
 Collect as many watermelon slices as possible *without touching other ghosts*. Bumping into one will cause
 Spoop to get spooked so hard that he drops all of his watermelon (and the game will end). You can track how
 many you've gotten by the counter in the corner. Help Spoop gather watermelon and see how long you can last!
+
+![Screenshot](main_gamescreen.png)
+
+![Screenshot](play_game.png)
+
+![Screenshot](you_died.png)
 
 ## Controls
 

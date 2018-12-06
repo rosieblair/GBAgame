@@ -8,6 +8,11 @@ A very simple Gameboy Advance game that I created in roughly three days.
 It's written in C and is playable using this GBA emulator: https://github.com/TricksterGuy/nin10kit.
 The purpose of this was to learn more about graphics and DMA (direct memory allocation) in C.
 
+![Screenshot](main_gamescreen.png)
+![Screenshot](play_game.png)
+![Screenshot](you_died.png)
+
+
 ## Gameplay
 
 *Spoop the ghost needs **your** help!*
